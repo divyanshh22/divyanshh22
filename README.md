@@ -3,12 +3,15 @@
 
 - 🔭 I’m currently working on [Python Projects](Soon..)
 
+- 🌱 I’m currently learning **Frameworks**
+
 - 👨‍💻 All of my projects are available at [https://divyansh-portfolio-self.vercel.app/](https://divyansh-portfolio-self.vercel.app/)
 
 - 📫 How to reach me **divyansh222f@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/divyansh-singh-618220318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh-singh-618220318" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
