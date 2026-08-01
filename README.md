@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://divyansh-portfolio-self.vercel.app/](https://divyansh-portfolio-self.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portoflio-website-divyansh.onrender.com/](https://portoflio-website-divyansh.onrender.com/)
 
 - 📫 How to reach me **divyansh222f@gmail.com**
 
