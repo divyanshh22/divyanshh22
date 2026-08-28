@@ -98,7 +98,7 @@ Git • GitHub • Docker • Nginx • Gunicorn • Redis • Celery • WebSoc
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/divyansh-singh-618220318/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/divyanshh22/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portoflio-website-divyansh.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge\&logo=vercel\&logoColor=white)]([https://portoflio-website-divyansh.onrender.com/](https://divyansh-portfolio-cxgb.onrender.com/))
 
 📫 **Email:** [divyansh222f@gmail.com](mailto:divyansh222f@gmail.com)
 
