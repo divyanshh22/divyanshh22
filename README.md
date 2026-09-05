@@ -2,7 +2,7 @@
 
 ### 💻 Backend & Full-Stack Developer | Python & Django
 
-I build **backend and full-stack web applications** with Python, Django, Django REST Framework, and PostgreSQL.
+I build **backend and full-stack web applications** using Python, Django, Django REST Framework, and PostgreSQL.
 
 ```text
 🔭 Building     → Python & Django Projects
@@ -39,22 +39,22 @@ Online shopping platform featuring:
 * REST APIs
 * Inventory & order tracking
 
-**Tech:** Python • Django • DRF • Bootstrap • SQLite
+**Tech:** Python • Django • Django REST Framework • Bootstrap • SQLite
 
 </details>
 
 <details>
 <summary><b>📦 Inventory & Order Management System</b></summary>
 
-Multi-vendor inventory system with:
+Multi-vendor inventory management system with:
 
 * Stock tracking
 * Low-stock alerts
 * REST APIs
 * PDF invoice generation
-* Background tasks with Redis & Celery
+* Background tasks using Redis & Celery
 
-**Tech:** Python • Django • DRF • PostgreSQL • Redis • Celery
+**Tech:** Python • Django • Django REST Framework • PostgreSQL • Redis • Celery
 
 </details>
 
@@ -64,12 +64,12 @@ Multi-vendor inventory system with:
 Real-time messaging application featuring:
 
 * WebSocket communication
-* Authentication
+* User authentication
 * Session management
 * Cloudinary media storage
 * Responsive frontend
 
-**Tech:** Django • Django Channels • Redis • WebSockets • PostgreSQL
+**Tech:** Django • Django Channels • Redis • WebSockets • PostgreSQL • Cloudinary
 
 </details>
 
@@ -78,18 +78,23 @@ Real-time messaging application featuring:
 ## 🛠️ Tech Stack
 
 **Languages**
-🐍 Python • JavaScript • Java
+
+🐍 Python • JavaScript • Java • C++
 
 **Backend**
-Django • Django REST Framework • Flask • Django Channels
+
+Django • Django REST Framework • Flask • Django Channels • REST APIs
 
 **Frontend**
-HTML • CSS • Bootstrap
+
+HTML • CSS • Bootstrap • JavaScript
 
 **Databases**
-PostgreSQL • MySQL • SQLite
+
+PostgreSQL • MySQL • SQLite • MongoDB
 
 **Infrastructure & Tools**
+
 Git • GitHub • Docker • Nginx • Gunicorn • Redis • Celery • WebSockets • Cloudinary • Render
 
 ---
@@ -97,8 +102,10 @@ Git • GitHub • Docker • Nginx • Gunicorn • Redis • Celery • WebSoc
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/divyansh-singh-618220318/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/divyanshh22/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge\&logo=vercel\&logoColor=white)]([https://portoflio-website-divyansh.onrender.com/](https://divyansh-portfolio-cxgb.onrender.com/))
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge\&logo=vercel\&logoColor=white)](https://divyansh-portfolio-cxgb.onrender.com/)
 
 📫 **Email:** [divyansh222f@gmail.com](mailto:divyansh222f@gmail.com)
 
