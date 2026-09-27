@@ -95,7 +95,7 @@ PostgreSQL • MySQL • SQLite • MongoDB
 
 **Infrastructure & Tools**
 
-Git • GitHub • Docker • Nginx • Gunicorn • Redis • Celery • WebSockets • Cloudinary • Render
+Git • GitHub  • Postman • Docker • Nginx • Gunicorn • Redis • Celery • WebSockets • Cloudinary • Render
 
 ---
 
