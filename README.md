@@ -71,5 +71,5 @@
 ---
 
 <p align="center">
-  <i>Code. Learn. Build. Repeat. 🚀</i>
+  <i>Making ideas executable. ⚡</i>
 </p>
