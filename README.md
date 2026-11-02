@@ -49,9 +49,6 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
 
-**Core Concepts**
-
-OOP • Backend Development • Full-Stack Development • REST API Development • Database Design • API Integration • Authentication & Authorization
 
 ---
 
