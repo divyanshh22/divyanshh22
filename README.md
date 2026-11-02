@@ -18,7 +18,6 @@
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST_Framework-red?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django Channels](https://img.shields.io/badge/Django_Channels-092E20?style=flat-square&logo=django&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
