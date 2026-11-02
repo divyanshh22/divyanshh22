@@ -1,100 +1,45 @@
-# Hi, I'm Divyansh Singh 👋
+# Hey, I'm Divyansh 👋
 
-### Python Backend Developer | Django | REST APIs | PostgreSQL
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&width=500&lines=Python+Backend+Developer;Django+%26+DRF+Developer;Building+Things+That+Solve+Problems)](https://git.io/typing-svg)
 
-I build backend and full-stack web applications focused on **REST APIs, database management, authentication, and real-time communication** using Python and Django.
-
-I enjoy turning ideas into practical applications, solving backend problems, and continuously improving my development skills.
-
+💻 Building backend applications & REST APIs  
+🌱 Learning, experimenting & improving every day  
 📍 Bhopal, India
 
 ---
 
-## 💻 What I'm Working On
+### ⚡ Tech Stack
 
-- 🔭 Building backend and full-stack applications using Python and Django.
-- 🌱 Learning advanced backend development, API testing, and system design fundamentals.
-- ⚡ Exploring real-time applications, asynchronous tasks, and database optimization.
-- 🎯 Interested in Python Backend Developer and Software Developer opportunities.
-
----
-
-## 🚀 Projects
-
-### 💬 Django Real-Time Chat Application
-Real-time messaging application featuring WebSocket communication, user authentication, session management, and image sharing.
-
-**Tech Stack:** Python, Django, Django Channels, WebSockets, Redis, PostgreSQL, Cloudinary.
-
-🔗 [Live Demo](https://django-real-time-chat-application.onrender.com) | [Source Code](https://github.com/divyanshh22/Django-Real-Time-Chat-Application)
-
-### 📦 Inventory & Order Management System
-Inventory and order management application with role-based access control, stock tracking, automated low-stock alerts, background tasks, and PDF invoice generation.
-
-**Tech Stack:** Python, Django REST Framework, PostgreSQL, Redis, Celery, ReportLab.
-
-🔗 [Live Demo](https://inventory-order-management-system-gttj.onrender.com) | [Source Code](https://github.com/divyanshh22/Inventory-Order-Management-System)
-
-### 🎓 College ERP System
-Full-stack college management application with dedicated dashboards for students, faculty, and administrators, including attendance, academic records, timetables, and faculty reports.
-
-**Tech Stack:** Python, Django, Django REST Framework, PostgreSQL, Bootstrap.
-
-🔗 [Live Demo](https://college-erp-system-fkr1.onrender.com) | [Source Code](https://github.com/divyanshh22/collegeERPsystem)
-
-### 🛒 Full-Stack E-Commerce Platform
-E-commerce application featuring product catalogs, shopping carts, checkout, discount coupons, refund requests, Stripe payment integration, and order management.
-
-**Tech Stack:** Python, Django, Django REST Framework, PostgreSQL, Bootstrap, JavaScript.
-
-🔗 [Live Demo](https://full-stack-e-commerce-platform-6gy3.onrender.com)
-
-### 📄 Flask DOCX Converter
-Currently building a Flask-based document conversion application designed to simplify file conversion through an easy-to-use web interface.
-
-**Tech Stack:** Python, Flask, DOCX.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-red?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🛠️ Technical Skills
+### 🚀 Things I've Built
 
-**Languages**
-- Python, JavaScript
-
-**Backend Development**
-- Django, Django REST Framework, Flask
-- Django Channels, REST APIs, WebSockets
-- Authentication & Authorization, Celery
-
-**Frontend Development**
-- HTML, CSS, Bootstrap, JavaScript
-
-**Databases & Caching**
-- PostgreSQL, MySQL, SQLite, Redis
-
-**Tools & Infrastructure**
-- Git, GitHub, Postman, Docker
-- Nginx, Gunicorn, Daphne, Cloudinary, Render
+- 💬 [Real-Time Chat Application](https://github.com/divyanshh22/Django-Real-Time-Chat-Application)
+- 📦 [Inventory & Order Management](https://github.com/divyanshh22/Inventory-Order-Management-System)
+- 🎓 [College ERP System](https://github.com/divyanshh22/collegeERPsystem)
+- 🛒 [E-Commerce Platform](https://github.com/divyanshh22)
 
 ---
 
-## 📜 Certifications
+### 🌐 Find Me Around The Web
 
-- ISRO – AI/ML for Geodata Analysis
-- Infosys – Programming Fundamentals with Python
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyansh-singh-618220318/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=googlechrome)](https://divyansh-portfolio-cxgb.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/divyanshh22)
 
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyansh-singh-618220318/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-222222?style=for-the-badge&logo=googlechrome&logoColor=white)](https://divyansh-portfolio-cxgb.onrender.com/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyanshh22/)
-
-📧 **Email:** [divyansh222f@gmail.com](mailto:divyansh222f@gmail.com)
+📩 **Email:** divyansh222f@gmail.com
 
 ---
 
-⭐ Always learning, building, and improving.
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
